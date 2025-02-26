@@ -1,0 +1,6 @@
+[package]
+name = "ch04_003_Ownership03_Memory_Allocation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
