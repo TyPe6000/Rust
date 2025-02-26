@@ -1,0 +1,6 @@
+[package]
+name = "ch04_002_Ownership02_String_Type"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

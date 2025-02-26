@@ -1,0 +1,6 @@
+[package]
+name = "ch04_001_ownership01_scope"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
